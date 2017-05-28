@@ -1,0 +1,20 @@
+Software License Agreement
+
+THE SOFTWARE AND OTHER INFORMATION IS DELIVERED TO YOU “AS IS” AND WITH ALL FAULTS. Zimbotech AND ITS SUPPLIERS AND CERTIFICATE AUTHORITIES DO NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE SOFTWARE, CERTIFICATE AUTHORITY SERVICES OR OTHER THIRD PARTY OFFERINGS. EXCEPT TO THE EXTENT ANY WARRANTY, CONDITION, REPRESENTATION OR TERM CANNOT OR MAY NOT BE EXCLUDED OR LIMITED BY LAW APPLICABLE TO YOU IN YOUR JURISDICTION,Zimbotech AND ITS SUPPLIERS AND CERTIFICATE AUTHORITIES MAKE NO WARRANTIES CONDITIONS, REPRESENTATIONS, OR TERMS (EXPRESS OR IMPLIED WHETHER BY STATUTE, COMMON LAW, CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING WITHOUT LIMITATION NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, INTEGRATION, SATISFACTORY QUALITY, OR FITNESS FOR ANY PARTICULAR PURPOSE.
+
+LICENSE
+
+If you obtained the Software from Zimbotech or one of its authorized licensees, and subject to your compliance with the terms of this agreement, including the restrictions, Me-Debug Technologies grants to you a non-exclusive license to use the Software in the manner and for the purposes described in the Documentation as follows:
+i.	General Use. You may install and use one copy of the Software on your compatible Computer. 
+ii.	Server Use. This agreement does not permit you to install or use the software on a computer file server.
+iii.	Distribution. This license does not grant you the right to sublicense or distribute the Software. 
+iv.	Backup Copy. You may make one backup copy of the Software, provided your backup copy is not installed or used. You may not transfer the rights to a backup copy unless you transfer all rights in the Software.
+
+TRANSFER
+
+You may not rent, lease, sublicense, assign or transfer your rights in the Software, or authorize all or any portion of the Software to be copied onto another user’s Computer except as may be expressly permitted by this agreement. You may, however, transfer all your rights to use the Software to another person or legal entity provided that: (a) you also transfer (i) this agreement, and (ii) the Software and all other software or hardware bundled or pre-installed with the Software, including all copies, updates and prior versions, to such person or entity, (b) you retain no copies, including backups and copies stored on a Computer, and (c) the receiving party accepts the terms and conditions of this agreement and any other terms and conditions upon which you obtained a valid license to the Software. Notwithstanding the foregoing, you may not transfer education, pre-release, or not for resale copies of the Software.
+
+INTELLECTUAL PROPERTY OWNERSHIP, RESERVATION OF RIGHTS.
+
+The Software and any authorized copies that you make are the intellectual property of Zimbotech and its suppliers. The structure, organization and code of the Software are the valuable trade secrets and confidential information of Me-Debug Technologies and its suppliers. The Software is protected by law, including without limitation the copyright laws of Zimbabwe and other countries, and by international treaty provisions. Except as expressly stated herein, this agreement does not grant you any intellectual property rights in the Software and all rights not expressly granted are reserved by Me-Debug Technologies and its suppliers.
+
